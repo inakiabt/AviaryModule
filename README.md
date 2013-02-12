@@ -41,6 +41,8 @@ And show image. It's end.!
 ###Step 3
 [More Information](http://lasneo.tumblr.com/post/26715724515/aviarymodule-guide)
 
+REMEMBER: You must copy the resource bundles into the Resources/iphone directory for the application to function properly AviarySDKResources.bundle
+
 API
 ========
 
